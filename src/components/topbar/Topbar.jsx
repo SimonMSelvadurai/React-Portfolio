@@ -1,5 +1,6 @@
 import "./topbar.scss";
-import { Person, Mail,LinkedIn,GitHub,FileCopy } from "@material-ui/icons";
+import { Person, Mail,LinkedIn,GitHub } from "@material-ui/icons";
+//FileCopy
 // eslint-disable-next-line
 
 export default function Topbar({ menuOpen, setMenuOpen }) {
